@@ -3,7 +3,7 @@
       fullName: "Gaizka Jimenez Alvarez",
       profession: "Full Stack Dev 🧑‍💻", 
       currentlyBased: "Bilbao📍- España ",
-      spokenLanguages: ["español", "english", "Basque", "Italian"],
+      spokenLanguages: ["Español", "English", "Basque", "Italian"],
       LearningLanguages: ["German"],
       techStack: {
         code: PowerShell, HTML
