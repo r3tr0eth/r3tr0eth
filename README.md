@@ -6,10 +6,10 @@
       spokenLanguages: ["Español", "English", "Basque", "Italian"],
       LearningLanguages: ["German"],
       techStack: {
-        code: PowerShell, HTML
+        code: PowerShell, JavaScript, Python
         tools: {
-          frontEnd: [Javascript, React, Redux, CSS, Material-UI, Bootstrap],
-          backEnd: [PHP, Java, Python],
+          frontEnd: [ React, Redux, CSS, Material-UI, Bootstrap],
+          backEnd: [PHP, Java],
           databases: {
             sql: MySQL, Postgre,
             nosql: MongoDB
