@@ -11,7 +11,7 @@
           frontEnd: [ React, Redux, CSS, Material-UI, Bootstrap],
           backEnd: [PHP, Java],
           databases: {
-            sql: MySQL, Postgre,
+            sql: MySQL, PostgreSQL,
             nosql: MongoDB
           },
           deployment: [Netifly],
