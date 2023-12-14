@@ -2,7 +2,7 @@
     const Gaizkaja = {
       fullName: "Gaizka Jimenez Alvarez",
       profession: "Full Stack Dev 🧑‍💻", 
-      currentlyBased: "Bilbao📍- España ",
+      currentlyBased: "España ",
       spokenLanguages: ["Español", "English", "Basque", "Italian"],
       LearningLanguages: ["German"],
       techStack: {
