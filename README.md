@@ -14,7 +14,7 @@
             sql: MySQL, PostgreSQL,
             nosql: MongoDB
           },
-          deployment: [Netifly],
+          deployment: [Vercel],
           versionControl: Git,NPM,
           S.O.: Linux
         },
