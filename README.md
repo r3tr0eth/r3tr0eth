@@ -6,20 +6,20 @@
       spokenLanguages: ["Español", "English", "Basque", "Italian"],
       LearningLanguages: ["German"],
       techStack: {
-        code: PowerShell, JavaScript, Python
+        code: React, TypeScript, Python, NodeJs
         tools: {
-          frontEnd: [ React, CSS],
-          backEnd: [PHP, Java],
+          frontEnd: [ React, TailwindCSS, Astro],
+          backEnd: [NodeJS, Java, Python],
           databases: {
             sql: MySQL, PostgreSQL,
             nosql: MongoDB
           },
           deployment: [Vercel],
           versionControl: Git,NPM,
-          S.O.: Linux
+          S.O.: Linux, MacOS, Windows
         },
       },
-      currentlyLearning: [Solidity, AWS],
+      currentlyLearning: [Rust, AWS],
      
     };
     
